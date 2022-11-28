@@ -1,5 +1,9 @@
 # Arch Linux
 
+<p align="center">
+	<img src="assets/banner.png" alt="banner.png" width="200">
+</p>
+
 ## Distribución del teclado
 ```bash
 loadkeys es
