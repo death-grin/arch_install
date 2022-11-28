@@ -1,7 +1,7 @@
 # Arch Linux
 
 <p align="center">
-	<img src="assets/banner.png" alt="banner.png" width="200">
+	<img src="assets/banner.png" alt="banner.png" width="400">
 </p>
 
 ## Distribución del teclado
